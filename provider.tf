@@ -1,7 +1,7 @@
 provider "aviatrix" {
-  controller_ip = var.controller_ip
-  username      = var.username
-  password      = var.password
+  controller_ip = 184.73.47.41
+  username      = admin
+  password      = Root123!@#
 }
 
 provider "aws" {
